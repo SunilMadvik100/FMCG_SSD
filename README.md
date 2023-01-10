@@ -12,7 +12,8 @@ FMCG(Fast-Moving Consumer Goods) brands require insights into retail shelves to 
 Given a grocery store shelf image, detect all products present in the shelf image (detection only at product or no-product level) with only **one anchor box per feature-map cell**.
 
 ## Dataset:
-https://cavinkare-my.sharepoint.com/:u:/p/1014264/EbGOj7ULJKBNhVBcv2w0QuYBwhlGGDxzOtB2qFKsay59Yw?e=zYbu5t
+Shelfanalytics Dataset
+
 
 ### What we deliver in this repo:
 
